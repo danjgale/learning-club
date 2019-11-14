@@ -4,7 +4,7 @@ This journal club covers recent papers that use dimensionality reduction approac
 
 ## Background reading
 
-If you are unfamiliar with dimensionality reduction and how such methods have been used thus far in neuroscience, it is recommended that you first check out these papers:
+If you are unfamiliar with dimensionality reduction and how such methods have been used thus far in neuroscience, it is *highly* recommended that you first check out these review papers:
 
 [Shenoy, K. V., Sahani, M., & Churchland, M. M. (2013). Cortical control of arm movements: a dynamical systems perspective. Annual review of neuroscience, 36, 337-359.](https://www.annualreviews.org/doi/abs/10.1146/annurev-neuro-062111-150509)
 
