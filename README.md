@@ -1,6 +1,6 @@
 # Population dynamics of sensorimotor learning journal club
 
-This journal club covers recent papers that use dimensionality reduction approaches to understand population dynamics that relate to sensorimotor learning. Although the focus is on senorimotor learning, additional papers that also use similar approaches in different contexts (e.g., decision making, network communication, etc) can also be covered if they are of interest.
+This journal club covers recent papers that use dimensionality reduction approaches to understand population dynamics during sensorimotor learning. Although the focus is on senorimotor learning, additional papers that also use similar approaches in different contexts (e.g., decision making, network communication, etc) will also be considered if they are of interest.
 
 ## Background reading
 
