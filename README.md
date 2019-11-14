@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Population dynamics of sensorimotor learning journal club
 
-You can use the [editor on GitHub](https://github.com/danjgale/learning-club/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This journal club covers recent papers that use dimensionality reduction approaches to understand population dynamics that relate to sensorimotor learning. Although the focus is on senorimotor learning, additional papers that also use similar approaches in different contexts (e.g., decision making, network communication, etc) can also be covered if they are of interest.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Background reading
 
-### Markdown
+If you are unfamiliar with dimensionality reduction and how such methods have been used thus far in neuroscience, it is recommended that you first check out these papers:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Shenoy, K. V., Sahani, M., & Churchland, M. M. (2013). Cortical control of arm movements: a dynamical systems perspective. Annual review of neuroscience, 36, 337-359.](https://www.annualreviews.org/doi/abs/10.1146/annurev-neuro-062111-150509)
 
-```markdown
-Syntax highlighted code block
+[Cunningham, J. P., & Byron, M. Y. (2014). Dimensionality reduction for large-scale neural recordings. Nature neuroscience, 17(11), 1500.](https://www.nature.com/articles/nn.3776)
 
-# Header 1
-## Header 2
-### Header 3
+[Gallego, J. A., Perich, M. G., Miller, L. E., & Solla, S. A. (2017). Neural manifolds for the control of movement. Neuron, 94(5), 978-984.](https://www.sciencedirect.com/science/article/pii/S0896627317304634)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/danjgale/learning-club/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Shenoy et al (2013) reviews the foundational work on dimensionality reduction approaches in motor control, and Cunningham & Yu (2014) give a much broader overview on dimensionality reduction methods in neuroscience in general. Gallego et al (2017) discusses the latest and greatest of how such approaches are used to understand motor control and learning. 
