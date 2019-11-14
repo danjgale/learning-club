@@ -2,7 +2,7 @@
 
 This journal club covers recent papers that use dimensionality reduction approaches to understand population dynamics during sensorimotor learning. Although the focus is on senorimotor learning, additional papers that use similar approaches in different contexts (e.g., decision making, network communication, etc) will also be considered if they are of interest.
 
-**Time & Place:** Tuesdays at 2:30pm, Craine Hall  
+**Time & Place:** Tuesdays at 2:30pm, Craine Hall Room 130  
 
 ## Background reading
 
